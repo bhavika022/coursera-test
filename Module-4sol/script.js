@@ -10,3 +10,15 @@
         }
     }
 })();
+
+/*
+Solution of assignment 4:
+Expected output:
+Hello Yaakov
+Good Bye John
+Good Bye Jason
+Good Bye Jake
+Hello Charlie
+Hello Hanna
+Good Bye Jenny
+*/
